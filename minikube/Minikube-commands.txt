@@ -11,4 +11,4 @@ choco install minikube kubernetes-cli -y
 
 
 ##Execute to Setup Minikube cluster
-minikube start
+minikube start --no-vtx-check
